@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Abhishek Singh
+  Place: Durgapur, India
+  Bio: Student and Tech geek at NIT Durgapur.
+  Github: [Abhishek Singh](https://github.com/ZER-0-NE)
+  
